@@ -1,0 +1,17 @@
+# Core scraping / parsing
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.2.2
+
+# Data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Vector database
+faiss-cpu==1.8.0
+
+# Embeddings
+sentence-transformers==3.0.1
+
+# LLM provider (Groq)
+groq==0.9.0

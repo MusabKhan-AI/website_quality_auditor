@@ -1,0 +1,17 @@
+# Secrets — never commit API keys
+.env
+*.env
+secrets.json
+
+# Generated reports (keep only the sample_ versions tracked)
+audit_report.json
+audit_report.csv
+audit_report.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
